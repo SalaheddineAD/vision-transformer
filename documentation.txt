@@ -7,7 +7,10 @@
 - To activate environement : 
     -if locally then use: conda activate "env_name"
     -if venv then enter : conda activate "absolute_venv_path"
-- To see environments: conda info --envs
+- To see environments: 
+    -run: conda info --envs
+- To export environment as requirements.txt 
+    -run: pip freeze > requirements.txt
 
 - To install requirements: pip install -r requirements.txt 
     -and if -e . is in the requirements.txt then it will create the folder info once again so better to comment it.
