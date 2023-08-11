@@ -83,4 +83,5 @@ wcwidth==0.2.6
 Werkzeug==2.3.6
 wrapt==1.15.0
 zipp==3.16.2
+matplotlib
 -e .
