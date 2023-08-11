@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/__init__.py
+src/data_transformation.py
+src/model_trainer.py
+src/vision_transformer.egg-info/PKG-INFO
+src/vision_transformer.egg-info/SOURCES.txt
+src/vision_transformer.egg-info/dependency_links.txt
+src/vision_transformer.egg-info/requires.txt
+src/vision_transformer.egg-info/top_level.txt
