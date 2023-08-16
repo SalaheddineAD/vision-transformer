@@ -1,0 +1,27 @@
+{
+    "model_name": "Vision Transformer",
+    "train_images_performance_metrics": {
+        "accuracy": 0.9430444240570068,
+        "precision": 0.9436927070787323,
+        "recall": 0.9420877265489679,
+        "f1_score": 0.9422721891708056
+    },
+    "validation_images_performance_metrics": {
+        "accuracy": 0.9435333609580994,
+        "precision": 0.9438024712517473,
+        "recall": 0.9425949696819353,
+        "f1_score": 0.9427020690781334
+    },
+    "test_images_performance_metrics": {
+        "accuracy": 0.9429000020027161,
+        "precision": 0.9440102443234146,
+        "recall": 0.9418122581187565,
+        "f1_score": 0.9421103523277411
+    },
+    "transformed_test_images_performance_metrics": {
+        "accuracy": 0.6693999767303467,
+        "precision": 0.7721902514267633,
+        "recall": 0.6645088858253737,
+        "f1_score": 0.6914443995671273
+    }
+}
