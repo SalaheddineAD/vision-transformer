@@ -1,0 +1,27 @@
+{
+    "model_name": "resnet34",
+    "train_images_performance_metrics": {
+        "accuracy": 0.9965333342552185,
+        "precision": 0.9965439212261193,
+        "recall": 0.9965270582687659,
+        "f1_score": 0.9965333963619276
+    },
+    "validation_images_performance_metrics": {
+        "accuracy": 0.9909999966621399,
+        "precision": 0.9908830945686041,
+        "recall": 0.9910789607006839,
+        "f1_score": 0.9909661272017523
+    },
+    "test_images_performance_metrics": {
+        "accuracy": 0.9939000010490417,
+        "precision": 0.9938428803221433,
+        "recall": 0.9938193217725105,
+        "f1_score": 0.9938222745124519
+    },
+    "transformed_test_images_performance_metrics": {
+        "accuracy": 0.6741999983787537,
+        "precision": 0.7977476779997776,
+        "recall": 0.6701383221835769,
+        "f1_score": 0.7024887731842709
+    }
+}
