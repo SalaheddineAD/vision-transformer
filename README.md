@@ -7,10 +7,8 @@ pip install -r requirements.txt
 For now use only notebook not src folder
 ```
 ## Project Organization
-### notebooks: This directory holds Jupyter notebooks that you use for various stages of your project.
-
-* exploration: Notebook(s) focused on initial data exploration and understanding.
-* experiments: Notebook(s) where you develop, train, and evaluate different models or variations.
+### notebooks: This directory holds Jupyter notebooks .
+* They can only be run on collab
 
 ### src: This directory contains your project's source code, organized by functionality.
 

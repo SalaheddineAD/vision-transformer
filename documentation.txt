@@ -12,21 +12,25 @@
 - To export environment as requirements.txt 
     -run: pip freeze > requirements.txt
 
-- To install requirements: pip install -r requirements.txt 
+- To install requirements: 
+    -run: pip install -r requirements.txt 
     -and if -e . is in the requirements.txt then it will create the folder info once again so better to comment it.
 
 **** logger ****
-- To use logger: need to from "src."logger import logging. then you can specify the logging info (see logger.py for example)
+- To use logger: 
+    -need to write: from "src."logger import logging. then you can specify the logging info (see logger.py for example)
 
 **** tests ****
 to run tests run command: python -m unittest
 
 **** Flask****
 - To run a python app: python app.py
- - render_template looks for files inside "templates" foler so make sure you have it
+   -render_template looks for files inside "templates" foler so make sure you have it
  
- - To configure the form to send a post request to a particular api endpoint, use this:
+- To configure the form to send a post request to a particular api endpoint, use this:
  <form action="{{ url_for('predict_datapoint')}}" method="post">
- - To write value of a variable in the template use {{vaiable_name}}
- - see the web page on 127.0.0.1:5000
- - to stop running the program use ctrl + c
+- To write value of a variable in the template:
+    -use {{vaiable_name}}
+    -see the web page on 127.0.0.1:5000
+- To stop running the program 
+    -use ctrl + c
