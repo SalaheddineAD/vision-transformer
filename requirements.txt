@@ -90,6 +90,7 @@ traitlets==5.9.0
 typeguard==2.13.3
 typing_extensions==4.5.0
 urllib3==1.26.16
+-e git+https://github.com/SalaheddineAD/vision-transformer.git@3306253f082c952239d625473e7334cc075eae33#egg=vision_transformer
 wcwidth==0.2.6
 Werkzeug==2.3.6
 wrapt==1.12.1
